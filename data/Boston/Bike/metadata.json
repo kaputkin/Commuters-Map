@@ -1,0 +1,11 @@
+{
+    "attribution": "", 
+    "description": "", 
+    "center": "-71.0723,42.3454,12", 
+    "bounds": "-71.1778,42.244,-70.9691,42.4308", 
+    "minzoom": "10", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "15", 
+    "name": "Boston_Bike"
+}
